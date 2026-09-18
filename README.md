@@ -1,0 +1,1 @@
+This repository contains my CS3338 Homework 1 assignment. The assignment covers forking and cloning repositories, working with branches, pull requests, merging changes, collaborating with a groupmate, and using Git commands.
